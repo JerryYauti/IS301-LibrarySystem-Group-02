@@ -1,0 +1,13 @@
+BookID,Title,Author,Genre,YearPublished,Quantity,BorrowCount
+B001,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,10,45
+B003,1984,George Orwell,Dystopian,1949,12,67
+B002,To Kill a Mockingbird,Harper Lee,Fiction,1960,8,32
+B005,Moby-Dick,Herman Melville,Adventure,1851,5,8
+B004,Pride and Prejudice,Jane Austen,Romance,1813,7,12
+B006,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9,28
+B007,The Hobbit,J.R.R. Tolkien,Fantasy,1937,15,52
+B008,War and Peace,Leo Tolstoy,Historical,1869,6,14
+B009,The Alchemist,Paulo Coelho,Fiction,1988,11,39
+B010,Brave New World,Aldous Huxley,Dystopian,1932,10,41
+B011,The Odyssey,Homer,Classic,800,4,9
+B012,Crime and Punishment,Fyodor Dostoevsky,Fiction,1866,7,21
