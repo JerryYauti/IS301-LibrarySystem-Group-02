@@ -4,8 +4,8 @@
 
 **Course:** IS301 Structured Programming  
 **Project Title:** Library Management System  
-**Prepared by:** [Your Name / Group Members]  
-**Date:** [Insert Submission Date]
+**Prepared by:** [ Jerry, George, Anasta, Sandrick, Sebastian]  
+
 
 ---
 
